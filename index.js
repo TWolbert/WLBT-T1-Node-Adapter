@@ -1,4 +1,4 @@
-export default class T1 {
+export class T1 {
     #url;
     #bucketName;
     #authKey;
