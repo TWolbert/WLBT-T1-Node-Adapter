@@ -1,7 +1,7 @@
 {
   "name": "wlbt-t1-ts",
   "module": "index.js",
-  "version": "0.1",
+  "version": "0.0.1b",
   "repository": {
     "type": "git",
     "url": "https://github.com/TWolbert/WLBT-T1-Node-Adapter"
