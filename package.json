@@ -1,7 +1,7 @@
 {
   "name": "wlbt-t1-ts",
   "module": "index.js",
-  "version": "0.0.4b",
+  "version": "0.0.5b",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
