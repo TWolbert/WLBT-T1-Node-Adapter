@@ -1,0 +1,21 @@
+{
+  "name": "wlbt-t1-ts",
+  "module": "index.js",
+  "version": "0.1b",
+  "description": "A JS driver for the WLBT-T1 file hosting server",
+  "type": "module",
+  "scripts": {
+    "dev": "bun index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
