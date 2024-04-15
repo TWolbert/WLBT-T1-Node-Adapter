@@ -52,3 +52,15 @@ declare class T1 {
     createBucketInstance: (props: CreateBucketInstanceProps) => Promise<boolean>
     deleteBucket: (props: deleteBucketProps) => Promise<boolean>
 }
+
+declare namespace WLBT {
+    export { T1 }
+    export { T1Props }
+    export { T1Auth }
+    export { BucketAuth }
+    export { UploadFileProps }
+    export { CreateBucketInstanceProps }
+    export { createBucketProps }
+    export { deleteBucketProps }
+    export { Bucket }
+}
